@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stock>
+  <Producto id="0">
+    <id_proveedor>0</id_proveedor>
+    <nombre_del_producto>madera</nombre_del_producto>
+    <descripcion>madera refinada</descripcion>
+    <precio_venta>50</precio_venta>
+    <precio_compra>50</precio_compra>
+    <stock>20</stock>
+  </Producto>
+  <Producto id="1">
+    <id_proveedor>1</id_proveedor>
+    <nombre_del_producto>aluminio</nombre_del_producto>
+    <descripcion>aluminio</descripcion>
+    <precio_venta>200</precio_venta>
+    <precio_compra>80</precio_compra>
+    <stock>60</stock>
+  </Producto>
+  <Producto id="2">
+    <id_proveedor>2</id_proveedor>
+    <nombre_del_producto>jabon</nombre_del_producto>
+    <descripcion>jabon liquido</descripcion>
+    <precio_venta>222</precio_venta>
+    <precio_compra>80</precio_compra>
+    <stock>22</stock>
+  </Producto>
+  <Producto id="3">
+    <id_proveedor>55</id_proveedor>
+    <nombre_del_producto>arroz</nombre_del_producto>
+    <descripcion>arroz</descripcion>
+    <precio_venta>21</precio_venta>
+    <precio_compra>223</precio_compra>
+    <stock>22</stock>
+  </Producto>
+  <Producto id="4">
+    <id_proveedor>6</id_proveedor>
+    <nombre_del_producto>fideos</nombre_del_producto>
+    <descripcion>fideosssss</descripcion>
+    <precio_venta>56</precio_venta>
+    <precio_compra>2</precio_compra>
+    <stock>2</stock>
+  </Producto>
+  <Producto id="5">
+    <id_proveedor>8</id_proveedor>
+    <nombre_del_producto>manteca</nombre_del_producto>
+    <descripcion>mantecaaa</descripcion>
+    <precio_venta>66</precio_venta>
+    <precio_compra>3</precio_compra>
+    <stock>2</stock>
+  </Producto>
+  <Producto id="6">
+    <id_proveedor>7</id_proveedor>
+    <nombre_del_producto>ballesta</nombre_del_producto>
+    <descripcion>ballestaaaaa</descripcion>
+    <precio_venta>6666</precio_venta>
+    <precio_compra>2222</precio_compra>
+    <stock>111</stock>
+  </Producto>
+  <Producto id="7">
+    <id_proveedor>33</id_proveedor>
+    <nombre_del_producto>9mm</nombre_del_producto>
+    <descripcion>pistola</descripcion>
+    <precio_venta>900</precio_venta>
+    <precio_compra>2</precio_compra>
+    <stock>12</stock>
+  </Producto>
+  <Producto id="8">
+    <id_proveedor>45</id_proveedor>
+    <nombre_del_producto>monitor</nombre_del_producto>
+    <descripcion>monitor 4k</descripcion>
+    <precio_venta>88</precio_venta>
+    <precio_compra>5</precio_compra>
+    <stock>344</stock>
+  </Producto>
+  <Producto id="9">
+    <id_proveedor>1</id_proveedor>
+    <nombre_del_producto>bronce</nombre_del_producto>
+    <descripcion>bronceeee</descripcion>
+    <precio_venta>651</precio_venta>
+    <precio_compra>516</precio_compra>
+    <stock>3</stock>
+  </Producto>
+</Stock>
