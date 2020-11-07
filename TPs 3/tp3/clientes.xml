@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clientes>
+  <Cliente id="0">
+    <nombre_y_apellido>fernando</nombre_y_apellido>
+    <tipo_de_consumidor>particular</tipo_de_consumidor>
+    <cuil_o_cuit>465465465</cuil_o_cuit>
+    <ultima_compra>arroz</ultima_compra>
+  </Cliente>
+  <Cliente id="1">
+    <nombre_y_apellido>willy</nombre_y_apellido>
+    <tipo_de_consumidor>particular</tipo_de_consumidor>
+    <cuil_o_cuit>516546</cuil_o_cuit>
+    <ultima_compra>bronce</ultima_compra>
+  </Cliente>
+  <Cliente id="2">
+    <nombre_y_apellido>cocacola</nombre_y_apellido>
+    <tipo_de_consumidor>empresa</tipo_de_consumidor>
+    <cuil_o_cuit>23132132</cuil_o_cuit>
+    <ultima_compra>aluminio</ultima_compra>
+  </Cliente>
+  <Cliente id="3">
+    <nombre_y_apellido>fran</nombre_y_apellido>
+    <tipo_de_consumidor>particular</tipo_de_consumidor>
+    <cuil_o_cuit>464646646</cuil_o_cuit>
+    <ultima_compra>fideos</ultima_compra>
+  </Cliente>
+  <Cliente id="4">
+    <nombre_y_apellido>axel rose</nombre_y_apellido>
+    <tipo_de_consumidor>particular</tipo_de_consumidor>
+    <cuil_o_cuit>12121221</cuil_o_cuit>
+    <ultima_compra>manteca</ultima_compra>
+  </Cliente>
+</Clientes>
