@@ -36,7 +36,7 @@ Se realizaron proyectos como:
 -Una interfaz grafica con un cronometro, un reloj y un semaforo. Todo a tiempo real.
 
 
-English:
+-------------------------English-------------------------
 
 Tools and Skills learned:
 
